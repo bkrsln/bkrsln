@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Bekir.
+- 👀 I'm a data analyst focusing on product management and growth hacking who love visualization and storytelling.
+- 📫 You can reach me on [Linkedin](https://www.linkedin.com/in/bkrsln/) and [Twitter](https://www.twitter/bkrsln/).
